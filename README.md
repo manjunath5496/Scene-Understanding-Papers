@@ -71,7 +71,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Understanding-Papers/blob/master/s(38).pdf" style="text-decoration:none;">Box In the Box: Joint 3D Layout and Object Reasoning from Single Images</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Understanding-Papers/blob/master/s(39).pdf" style="text-decoration:none;">Structural Deep Metric Learning for Room Layout Estimation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Understanding-Papers/blob/master/s(40).pdf" style="text-decoration:none;">TP-LSD: Tri-Points Based Line Segment Detector</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Understanding-Papers/blob/master/s(41).pdf" style="text-decoration:none;">AtlantaNet: Inferring the 3D Indoor Layout from a Single 360<sup>0</sup> Image beyond the Manhattan World Assumption</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Understanding-Papers/blob/master/s(41).pdf" style="text-decoration:none;">AtlantaNet: Inferring the 3D Indoor Layout from a Single 360<sup>o</sup> Image beyond the Manhattan World Assumption</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Understanding-Papers/blob/master/s(42).pdf" style="text-decoration:none;">Estimating Spatial Layout of Rooms using Volumetric Reasoning about Objects and Surfaces</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Understanding-Papers/blob/master/s(43).pdf" style="text-decoration:none;">PanoContext: A Whole-room 3D Context Model for Panoramic Scene Understanding</a></li>
